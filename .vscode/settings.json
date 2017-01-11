@@ -1,0 +1,5 @@
+{
+    "dimmer.enabled": true,
+    "dimmer.context": 4,
+    "dimmer.when": "always"
+}
